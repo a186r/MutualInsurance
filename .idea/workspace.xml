@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24b70a7f-2cbf-41bc-bea0-0345ca9c540b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/insurancetype.sol" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MutualInsurance.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -57,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="createInsurance.sol" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/createInsurance.sol">
+      <file leaf-file-name="createinsurance.sol" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/createinsurance.sol">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            <state relative-caret-position="152">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -199,7 +195,7 @@
       <workItem from="1523677054477" duration="568000" />
       <workItem from="1523677646800" duration="323000" />
       <workItem from="1523678515781" duration="1632000" />
-      <workItem from="1523680565596" duration="1502000" />
+      <workItem from="1523680565596" duration="1575000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1523677703240</created>
@@ -208,11 +204,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523677703240</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="create insurance">
+      <created>1523682124002</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1523682124002</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4581000" />
+    <option name="totallyTimeSpent" value="4654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
@@ -255,7 +258,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="create insurance" />
+    <option name="LAST_COMMIT_MESSAGE" value="create insurance" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -365,10 +369,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/createInsurance.sol">
+    <entry file="file://$PROJECT_DIR$/createinsurance.sol">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
