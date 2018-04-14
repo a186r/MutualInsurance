@@ -1,5 +1,3 @@
-/*savemath 解决类型上下溢出的问题*/
-
 pragma solidity ^0.4.19;
 
 
