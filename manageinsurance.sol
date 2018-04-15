@@ -31,13 +31,8 @@ contract ManageInsurance is GodControl{
         ownerInsuranceCount = ownerInsuranceCount.add(1);
     }
 
-
-
-    //TODO 怎么移除这个合同呢
     function destoryinsurance(uint _insuranceId) internal onlyGod {
         insurances.remove(_insuranceId);
     }
-
-    function
 
 }
